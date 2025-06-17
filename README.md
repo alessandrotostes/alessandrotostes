@@ -11,18 +11,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  
-![Alessandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandrotostes&show_icons=true&theme=radical)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrotostes&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🚀 **Minhas Tecnologias**
 
 <div style="display: flex;" align="center">
