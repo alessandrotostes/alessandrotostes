@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou Alessandro Tostes</h1>
 
-<!--
-**alessandrotostes/alessandrotostes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre Mim
+- 🎸 Em transição de carreira de músico profissional para desenvolvedor
+- 👨‍🎓 Graduando em Ciências da Computação
+- 💻 Desenvolvedor Web Freelancer, apaixonado por tecnologia e aprendizado contínuo
+- 🚀 Atualmente desenvolvendo um ERP web em parceria com uma empresa do setor de extração de petróleo
+- 🧠 Buscando aprimorar conhecimentos em desenvolvimento web e sistemas
+- 🤝 Sempre disposto a colaborar, compartilhar conhecimento e crescer junto
+- 🌳 Amante da natureza, academia e jogos online
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 **GitHub Stats**
+
+<div align="center">
+  
+![Alessandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🚀 **Minhas Tecnologias**
+
+<div style="display: flex;" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
+</div>
+
+---
+
+## 💡 **Onde me encontrar**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-tostes-940972242/)
+- ✉️ alessandrotostesarruda@gmail.com
+
+---
