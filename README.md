@@ -26,7 +26,8 @@
 
 ## 💡 **Onde me encontrar**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-tostes-940972242/)
+- 🔗 [tostesdev.com](https://tostesdev.com/)
 - ✉️ alessandrotostesarruda@gmail.com
-- [tostesdev.com](https://tostesdev.com/)
+
 
 ---
