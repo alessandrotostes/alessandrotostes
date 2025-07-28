@@ -75,7 +75,7 @@ Minha experiência prática é evidenciada em projetos full-stack que demonstram
 ## 🤝 **Onde me encontrar**
 
 Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-tostes-940972242/)
+- 🔗 [LinkedIn - Alessandro Tostes](https://www.linkedin.com/in/alessandro-tostes-940972242/)
 - 🌐 [Tostes Dev](https://tostesdev.com/)
 - ✉️ [alessandrotostesarruda@gmail.com](mailto:alessandrotostesarruda@gmail.com)
 
