@@ -1,93 +1,102 @@
 <h1 align="center">Olá! 👋 Eu sou Alessandro Tostes</h1>
 
-## 🚀 Desenvolvedor Web Focado em Soluções Interativas e Escaláveis
+<h3 align="center">DESENVOLVEDOR WEB FULL-STACK</h3>
+<p align="center"><i>Construindo soluções digitais inovadoras com React, Next.js e Arquiteturas Serverless</i></p>
 
-Sou um Desenvolvedor Web apaixonado por transformar ideias em interfaces funcionais e intuitivas, com foco total na experiência do usuário e na qualidade do código. Com experiência na criação de soluções digitais completas, desde sites institucionais a aplicações complexas, estou em transição de carreira de músico profissional para desenvolvedor, trazendo comigo uma paixão por tecnologia e aprendizado contínuo. Atualmente, estou focado em aprimorar meus conhecimentos em desenvolvimento web e sistemas, buscando contribuir para projetos inovadores em equipes dinâmicas.
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alessandrotostes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tostesdev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+  </a>
+  <a href="mailto:alessandrotostesarruda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Graduando em Ciências da Computação, buscando uma base sólida para o desenvolvimento de sistemas.
-- 💻 Desenvolvedor Web Freelancer, com expertise em React.js, Next.js e Node.js para criar aplicações completas.
-- 💡 Apaixonado por transformar ideias em interfaces funcionais e intuitivas, sempre com foco na experiência do usuário e na qualidade do código.
-- 🚀 Atualmente desenvolvendo um ERP web FullStack em parceria com uma empresa do setor de extração de petróleo, gerenciando o projeto de ponta a ponta.
-- 🧠 Busco aprimorar continuamente meus conhecimentos em desenvolvimento web e sistemas, sempre aberto a novos desafios e aprendizados.
-- 🤝 Valorizo a colaboração, o compartilhamento de conhecimento e o crescimento conjunto em equipes.
-- 🌳 Nos momentos de folga, sou amante da natureza, da academia e de jogos online.
+[cite_start]Sou um Desenvolvedor Web Full-Stack apaixonado por transformar ideias em soluções digitais completas e de alto impacto[cite: 1, 2, 3]. [cite_start]Com experiência em todo o ciclo de desenvolvimento, foco em construir aplicações web robustas e escaláveis, desde plataformas SaaS complexas até sistemas de gestão com integrações de pagamento[cite: 1, 2, 3].
+
+Meu objetivo é sempre unir código de alta qualidade com interfaces intuitivas para entregar a melhor experiência ao usuário e contribuir para o sucesso de projetos inovadores[cite: 3]. [cite_start]Atualmente, estou cursando **Ciências da Computação** para aprofundar minha base teórica e continuar crescendo como profissional[cite: 42, 43].
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandrotostes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Alessandro Tostes"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrotostes&layout=compact&langs_count=8&theme=dracula" alt="Top Linguagens de Alessandro Tostes"/>
+</p>
 
 ---
 
-## 🛠️ **Minhas Tecnologias e Ferramentas**
+🛠️ Tecnologias e Ferramentas
 
-Aqui estão as principais tecnologias e ferramentas que utilizo atualmente em meus projetos:
+Estas são as tecnologias com as quais tenho trabalhado recentemente:
 
-### Front-end
-<div style="display: flex; flex-wrap: wrap; gap: 10px;" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript (ES6+)" title="JavaScript (ES6+)"/>
+Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" title="React.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript (ES6+)" title="JavaScript (ES6+)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
 </div>
 <br>
 
-### Back-end & Services
-<div style="display: flex; flex-wrap: wrap; gap: 10px;" align="center">
+Backend & Serviços
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase (PostgreSQL, Auth, RLS)" title="Supabase (PostgreSQL, Auth, RLS)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase (Authentication, Firestore, Cloud Functions)" title="Firebase (Authentication, Firestore, Cloud Functions)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase (Auth, Firestore, Functions)" title="Firebase (Auth, Firestore, Functions)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
 <br>
 
-### Ferramentas & Bibliotecas
-<div style="display: flex; flex-wrap: wrap; gap: 10px;" align="center">
+Ferramentas & DevOps
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>
-  </div>
-<br>
-
-### Design & UX/UI
-<div style="display: flex; flex-wrap: wrap; gap: 10px;" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma (básico)" title="Figma (básico)"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel"/>
+</div>
 
 ---
 
-## 🌟 **Projetos em Destaque**
+🚀 Principais Projetos
 
-Minha experiência prática é evidenciada em projetos full-stack que demonstram minha capacidade de construir soluções robustas e interativas:
+A&N Agendamentos - Plataforma de Agendamentos com Pagamento Integrado
+- Desenvolvimento de uma plataforma SaaS completa para agendamentos, conectando clientes, estabelecimentos e profissionais, com dashboards e sistema de pagamento ponta a ponta.
+- **Arquitetura Serverless e Segura:** Utilização de Firebase Cloud Functions (V2) para toda a lógica de backend, com controle de acesso robusto via Firebase Custom Claims (RBAC) e gerenciamento seguro de chaves com Google Cloud Secret Manager.
+- **Integração Avançada com API de Pagamentos:** Integração completa com o Mercado Pago, incluindo onboarding de vendedores via OAuth 2.0, criação de preferências de pagamento com divisão de comissão (marketplace fee) e processamento de status de pagamento em tempo real através de Webhooks.
+- **Tecnologias:** Next.js, TypeScript, Tailwind CSS, Firebase (Auth, Firestore, Cloud Functions), API do Mercado Pago, Git/Github.
 
-### ERP Web App - Sistema de Gestão FullStack
-- Desenvolvimento de uma aplicação web (SPA) completa para gestão de operações, com dashboards interativos para visualização de dados, autenticação segura de usuários e relatórios dinâmicos.
+ERP Web App - Sistema de Gestão FullStack
+- Desenvolvimento de uma aplicação web (SPA) completa para gestão de operações, com dashboards interativos, autenticação segura de usuários e relatórios dinâmicos[cite: 32, 33, 34].
 - **Tecnologias:** React, Tailwind CSS, Firebase (Auth, Firestore, Functions), Recharts, Git/Github.
-- **Demonstração em Vídeo:** [Assista à demonstração do ERP Web App](https://tostesdev.com/video/ERP_PETROLEO_DEMONSTRACAO.mp4)
-
-### Gestão de Consultas - Sistema de Gestão FullStack
-- Construção de uma aplicação web para gestão de pacientes e sessões, incluindo autenticação de usuários, painel de controle financeiro e design totalmente responsivo.
-- **Tecnologias:** Next.js (React), TypeScript, Tailwind CSS, Supabase (PostgreSQL, Auth, RLS), Recharts, Radix UI.
-- **Demonstração em Vídeo:** [Assista à demonstração do Sistema de Gestão](https://tostesdev.com/video/gestaoapp.mp4)
+- [Assista à Demonstração em Vídeo](https://tostesdev.com/video/ERP_PETROLEO DEMONSTRACAO.mp4)** 
 
 ---
 
-## 🤝 **Onde me encontrar**
+📫 Onde me Encontrar
 
-Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
-- 🔗 [LinkedIn - Alessandro Tostes](https://www.linkedin.com/in/alessandro-tostes-940972242/)
-- 🌐 [tostesdev.com](https://tostesdev.com/)
-- ✉️ [alessandrotostesarruda@gmail.com](mailto:alessandrotostesarruda@gmail.com)
+Sinta-se à vontade para se conectar comigo. Estou sempre aberto a novas oportunidades e colaborações!
 
----
-
-## 📚 **Formação Acadêmica**
-- **Bacharelado em Ciências da Computação** - Universidade Estácio de Sá (2023 - atualmente)
-- **Técnico em Química** - Escola Técnica NSA (2022/2023 - Concluído)
-
----
-
-## 🗣️ **Idiomas**
-- **Português:** Nativo
-- **Espanhol:** Intermediário
-- **Inglês:** Intermediário
+<p align="left">
+  <a href="https://www.linkedin.com/in/alessandrotostes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tostesdev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+  </a>
+  <a href="mailto:alessandrotostesarruda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
