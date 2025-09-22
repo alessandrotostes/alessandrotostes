@@ -73,7 +73,7 @@ Estas são as tecnologias com as quais tenho trabalhado recentemente:
 ### ERP Web App - Sistema de Gestão FullStack
 - Desenvolvimento de uma aplicação web (SPA) completa para gestão de operações, com dashboards interativos, autenticação segura de usuários e relatórios dinâmicos.
 - **Tecnologias:** React, Tailwind CSS, Firebase (Auth, Firestore, Functions), Recharts, Git/Github.
-- **[Assista à Demonstração em Vídeo](https://tostesdev.com/video/ERP_PETROLEO DEMONSTRACAO.mp4)**
+- **Assista a demonstrações em vídeo através do site: https://tostesdev.com**
 
 ---
 
