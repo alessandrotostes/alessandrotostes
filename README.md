@@ -19,9 +19,9 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+👨‍💻 Sobre Mim
 
-[cite_start]Sou um Desenvolvedor Web Full-Stack apaixonado por transformar ideias em soluções digitais completas e de alto impacto[cite: 1, 2, 3]. [cite_start]Com experiência em todo o ciclo de desenvolvimento, foco em construir aplicações web robustas e escaláveis, desde plataformas SaaS complexas até sistemas de gestão com integrações de pagamento[cite: 1, 2, 3].
+Sou um Desenvolvedor Web Full-Stack apaixonado por transformar ideias em soluções digitais completas e de alto impacto[cite: 1, 2, 3]. [cite_start]Com experiência em todo o ciclo de desenvolvimento, foco em construir aplicações web robustas e escaláveis, desde plataformas SaaS complexas até sistemas de gestão com integrações de pagamento[cite: 1, 2, 3].
 
 Meu objetivo é sempre unir código de alta qualidade com interfaces intuitivas para entregar a melhor experiência ao usuário e contribuir para o sucesso de projetos inovadores[cite: 3]. [cite_start]Atualmente, estou cursando **Ciências da Computação** para aprofundar minha base teórica e continuar crescendo como profissional[cite: 42, 43].
 
